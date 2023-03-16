@@ -1,0 +1,66 @@
+body {
+background-color: bisque;
+}
+main {
+    background-color: white;
+    width: 95%;
+margin: auto;
+padding: 5px;
+margin-top: -8px;
+}
+
+.galeria {
+width: 95%;
+margin: auto;
+border: 1px solid black;
+}
+.bal {
+width: 80%;
+}
+.jobb {
+    width: 80%;
+    }
+.nagykep {
+width: 90%;
+margin: auto;
+}
+
+.foKep {
+    width: 100%;
+    margin: auto;
+    
+}
+
+section {
+    display: grid;
+    grid-template-columns: 50px 1fr 50px;
+    width: 100%;
+    margin: auto;
+    
+}
+
+article {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+padding-top: 20px;
+
+}
+
+.kisKepek {
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: auto;
+    padding: 5px;
+    
+   
+    
+}
+
+.kep {
+width: 100%;
+
+}
+
+
+
